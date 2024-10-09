@@ -26,8 +26,7 @@ Los formatos de la placa base han evolucionado tanto como ella misma, por lo que
 
 **3. Mini ATX**
 
-**4. Mini ITX**
-                                                                              ![image](https://github.com/user-attachments/assets/9b87c415-e5da-46a8-ab28-bdeb8f8aa5ac)
+**4. Mini ITX**                                                                         
 
 **5. E-ATX (Extended ATX)**                                        
 
