@@ -37,5 +37,7 @@ los **conectores SATA** se utilizan para conectar dispositivos de almacenamiento
 **leds y botones de diagnóstico** que ayudan a la identificación de problemas durante el arranque y la configuración.
 
 
+
+
 ![image](https://github.com/user-attachments/assets/319cc27b-fc18-45a4-b585-5ddc6e720912)
 
