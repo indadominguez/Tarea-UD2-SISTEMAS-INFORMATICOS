@@ -1,7 +1,7 @@
 # Todo lo que tienes que saber sobre una Placa Base
 
 La **placa base**, también conocida como placa madre, es uno de los componentes más cruciales de una computadora, su función principal es servir como el circuito central, 
-ya que conecta todos los componentes del sistema, permitiendo la comunicación entre el procesador, 
+ya que conecta todos los componentes del sistema, permitiendo la comunicación entre el procesador,   
 la memoria, los dispositivos de almacenanmiento y otros periféricos.
 
 Esta, se introdujo en la década de los 80 con el auje de las computadoras personales, en un principio las placas base eran bastante simples y contenían solo los componentes esenciales,
