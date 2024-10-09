@@ -12,7 +12,7 @@ Esto permitió a los usuarios construir sistemas más compactos y eficientes y p
 
 Los formatos de la placa base han evolucionado tanto como ella misma, por lo que os dejamos un listado de los formatos más comunes y utilizados hoy en día:
 
-**1. ATX (Advanced Technology eXtended)**
+**1. ATX (Advanced Technology eXtended)**                                              
 
 **2. Micro ATX (mATX)**
 
@@ -27,3 +27,9 @@ Los formatos de la placa base han evolucionado tanto como ella misma, por lo que
 **7. Flex ATX**
 
 **8. Nano ITX**
+
+Lo más importante de una placa base por consecuencia son sus partes y su estructura, en las que se encuentran:
+
+El **Zócalo del Procesador**: Es el conector donde se instala el conector donde se intala el procesador, **el chipset** es un conjunto de circuitos integrados que gestioan la comunicación de entre el procesador, la memoria y los perifericos, como ya m¡hemos visto anteriormente, las **ranuras de memoria** son los conectores donde se instalan los módulos de la memoria RAM, las **ranuras de expansión** permiten 
+la instalación de tarjetas adicionales como gráficas, de sonido o de red, los **conectores de alimentación** que proporcionan la energía a la placa base, **los puntos de entrada y salida** son los conectores 
+de la parte trasera de la placa base que permiten la conexión de dispositivos externos, los **conectores SATA** se utilizan para conectar dispositivos de almacenamiento como discos duros y **unidades de estado sólido**, los **circuitos de Refrigeración** incluyen conectores para ventiladores y sistemas de refrigeración líquida, las**baterías CMOS** que proporcionan energía que almacena la configuración del BIOS cuando la computadora está apagada y por último **leds y botones de diagnóstico** que ayudan a la identificación de problemas durante el arranque y la configuración.
