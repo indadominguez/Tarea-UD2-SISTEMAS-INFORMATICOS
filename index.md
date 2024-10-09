@@ -12,6 +12,10 @@ para el funcionamiento de la computadora, pero con el tiempo se fueron incorpora
 Ya en el 2000 las placas base comenzaron a integrar más funciones, como controladores de audio y video, puertos USB y conectividad de red. 
 Esto permitió a los usuarios construir sistemas más compactos y eficientes y para el 2010 las placas base empezaron a ser mucho más sofisticadas, con soporte para múltiples núcleos de procesador y **memoria DDR4**, también se introdujeron formatos más pequeños para **sistemas compactos**. Por último, ya en 2020 las placas base incluyen características 4.0 y 5.0 con **conectividad WI-FI**.
 
+
+![image](https://github.com/user-attachments/assets/e9fc5df8-5d9f-468c-b9a0-e52ede3acb7b)
+
+
 # Formatos utilizados de la Placa Base
 
 Los formatos de la placa base han evolucionado tanto como ella misma, por lo que os dejamos un listado de los formatos más comunes y utilizados hoy en día:
