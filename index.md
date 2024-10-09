@@ -35,3 +35,7 @@ las **ranuras de expansión** permiten la instalación de tarjetas adicionales c
 **los puntos de entrada y salida** son los conectores de la parte trasera de la placa base que permiten la conexión de dispositivos externos, 
 los **conectores SATA** se utilizan para conectar dispositivos de almacenamiento como discos duros y **unidades de estado sólido**, los **circuitos de Refrigeración** incluyen conectores para ventiladores y sistemas de refrigeración líquida, las**baterías CMOS** que proporcionan la energía que almacena la configuración del BIOS cuando la computadora está apagada y por último 
 **leds y botones de diagnóstico** que ayudan a la identificación de problemas durante el arranque y la configuración.
+
+
+![image](https://github.com/user-attachments/assets/319cc27b-fc18-45a4-b585-5ddc6e720912)
+
